@@ -1,3 +1,3 @@
 RobotArm
 
-A Python class for controlling the robot arm from Maplin
+A python class for controlling the robot arm from Maplin
